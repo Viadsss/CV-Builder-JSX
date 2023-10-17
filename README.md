@@ -1,3 +1,12 @@
-# CV Builder built with React
+# CV Builder App
 
-Planning to rewrite this app into tsx after I learn typescript
+## 🤓 Things I've learned
+- React
+- UseState 
+- Passing Props
+- Structuring Components
+
+## 🛠️ Technologies
+- React
+- Tailwind CSS
+- Vite
