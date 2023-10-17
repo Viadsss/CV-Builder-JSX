@@ -1,5 +1,7 @@
 # CV Builder App
 
+## 🧪 [Live Demo](https://viads-cv-builder.netlify.app/)
+
 ## 🤓 Things I've learned
 - React
 - UseState 
